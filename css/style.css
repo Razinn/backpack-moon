@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.logo{
+    width: 12em;
+}
+.xmlid, .green{
+    width: 90%;
+}
+.ls-image{
+    width: 5em;
+}
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-color{
+    background-color: #2A1E59;
+}
+.purple-highlight{
+    color: #363958
+}
+.pest-highlight{
+    color: #76C27E
+}
